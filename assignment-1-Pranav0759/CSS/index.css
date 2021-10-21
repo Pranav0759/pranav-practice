@@ -113,7 +113,7 @@ body{
     display: block;
     color:#8c96ab;
     border:2px solid #8c96ab;
-    background: rgba(0,0,8,0) url('https://pranav0759.github.io/pranav-practice/assignment-1-Pranav0759/image/down-arrow.png') no-repeat scroll calc(85% + 10px) center/8px 10px;
+    background: rgba(0,0,8,0) url('https://pranav0759.github.io/pranav-practice/assignment-1-Pranav0759/image/down-arrow.png') no-repeat scroll calc(85% + 10px) center 10px;
     background-size: 17px 10px;
     -webkit-appearance: none;
     -moz-appearance: none;
