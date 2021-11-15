@@ -110,12 +110,13 @@
     }
     
     .home .controls{
-        padding: 1rem;
-        width:120px;
+        padding: 0.6rem;
+        width:105px;
     }
 
     .home .controls .vid-btn{
         height:1.3rem;
         width:1.3rem;
+        margin:0 .3rem;
     }
 }
